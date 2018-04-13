@@ -1,13 +1,24 @@
 {
   "name": "semana11",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon index"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "nodemon": "^1.17.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurbanoJaime/Semana11Web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BurbanoJaime/Semana11Web/issues"
+  },
+  "homepage": "https://github.com/BurbanoJaime/Semana11Web#readme",
+  "description": ""
 }
